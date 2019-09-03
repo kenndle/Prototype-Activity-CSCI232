@@ -3,6 +3,13 @@ Functional Requirements:
 showing the parents the growth or decrease in the child's progress.
 -The app is able to slow down its reading if the child is being left behind. If the child is being left behind a double tap on the screen
 will force the voice reading the book to  slow down.
+-While the child is reading to the software words will be highlighted depending on correctness.
+  -yellow means the child got the word wrong
+  -green means the child got the word right.
+-At the end of the page the child will see what words he got wrong and will be able to go over the words if choosen.
+-If so many attempts have been made on a specific word the voice will say the word and move on to the next word for the child to keep 
+reading.
+-speech impedimete.  
 
 
 Non-Functional Requirements:
