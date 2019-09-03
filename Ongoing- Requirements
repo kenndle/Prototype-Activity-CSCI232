@@ -1,1 +1,11 @@
+Functional Requirements: 
+-In the parents account of the app, the parents will be able to see data from their childs progress.  This would include charts and graphs
+showing the parents the growth or decrease in the child's progress.
+-The app is able to slow down its reading if the child is being left behind. If the child is being left behind a double tap on the screen
+will force the voice reading the book to  slow down.
 
+
+Non-Functional Requirements:
+Password protection for the credit card and data usage stored in the app.
+Offline Reading
+English
