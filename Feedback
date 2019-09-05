@@ -1,2 +1,10 @@
--Do not add red to the issue if the child got the word wrong or not.
--Have the book on a bookshelf go opaque when finished.
+Kid Reading to App
+  As the kid reads to the app, the word is highlighted in either red (for incorrect), yellow (for close to correct), and green (for correct).
+      Concern about using red, switch to just yellow for both close to correct and incorrect
+App Reading to Kid  
+  Words appear 2 seconds before they are spoken to the kid
+	
+Bookshelf
+  Small list of books available (4), which disappear as the kid has read to a sufficient level
+    Should be a way to search for books kid liked
+    Kid can read a book as many times as wished
