@@ -1,10 +1,37 @@
 Kid Reading to App
-  As the kid reads to the app, the word is highlighted in either red (for incorrect), yellow (for close to correct), and green (for correct).
-      Concern about using red, switch to just yellow for both close to correct and incorrect
+	As the kid reads to the app, the word is highlighted in either red (for incorrect), yellow (for close to correct), and green (for correct).
+      		Concern about using red, switch to just yellow for both close to correct and incorrect
+		No coloring for incorrect pronunciations
+		Way to toggle to kid reading to app
+		
 App Reading to Kid  
-  Words appear 2 seconds before they are spoken to the kid
+	Words appear 2 seconds before they are spoken to the kid
+	Double-tap feature to slow down reading speed
+		Way to toggle to kid reading to app
 	
 Bookshelf
-  Small list of books available (4), which disappear as the kid has read to a sufficient level
-    Should be a way to search for books kid liked
-    Kid can read a book as many times as wished
+	Small list of books available (4), which disappear as the kid has read to a sufficient level
+    	Kid can read a book as many times as wished
+	Have a few free books to start with
+	One free book per upgraded reading level
+	Display reading level in a bubble area
+	Age-based library
+		Rating per book such as stars/5
+		Should be a way to search for books kid liked
+    
+Sign Up Screen
+	Provision parental account
+	Profile area for each kid
+		Have Tutorial after signup
+		
+
+Parental Features
+	Cannot be accessed by child, password-protected
+	Can view data about the way the kid is reading
+	Search for Books feature
+		Privacy Policy!
+	
+		
+		
+	
+
