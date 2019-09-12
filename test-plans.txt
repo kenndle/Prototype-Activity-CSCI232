@@ -1,0 +1,15 @@
+Input:
+1) Login screen
+2) Choosing book
+3) Open parent area
+4) Create account
+5) Payment
+Tests:
+1) Release an old person onto create account area
+2) Release child onto book area with simple tutorial
+3) Give them fake credit card to pay for book
+4) Let parent discover portal area
+5) Send tester to put in incoherent information and see what happens
+
+Output:
+Document any difficulties/bugs
