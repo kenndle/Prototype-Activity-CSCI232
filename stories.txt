@@ -1,0 +1,20 @@
+6 year old wants to read Green Eggs and Ham by Dr. Suess 
+	search for title
+	wait for words to be read
+	read back to the book
+Grandparent provisioning account / profile for kid
+	create account
+	setup profile for kid / kids
+	pass off to kid
+Parent reading data
+	navigate to parent portal
+	open data area
+	process different data sets
+Kid reading level upgrade
+	receive congratulations
+	choose books from new list
+	read desired books
+Parent buying books
+	open parent portal
+	open book store area
+	purchase desired book with desired age level set
